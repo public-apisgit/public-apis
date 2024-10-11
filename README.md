@@ -91,6 +91,7 @@ The Public APIs repository is manually curated by community members like you and
 * [Vehicle](#vehicle)
 * [Video](#video)
 * [Weather](#weather)
+* [Web Scrappers/Crawlers](#web-scrapperscrawlers)
 <br >
 
 ### Animals
@@ -1877,6 +1878,14 @@ API | Description | Auth | HTTPS | CORS |
 | [WeatherAPI](https://www.weatherapi.com/) | Weather API with other stuff like Astronomy and Geolocation API | `apiKey` | Yes | Yes |
 | [Weatherbit](https://www.weatherbit.io/api) | Weather | `apiKey` | Yes | Unknown |
 | [Yandex.Weather](https://yandex.com/dev/weather/) | Assesses weather condition in specific locations | `apiKey` | Yes | No |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+### Web Scrappers/Crawlers
+API | Description | Auth | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [dataminer.site](https://dataminer.site/) | Get access to free and powerfull web crawler | `apiKey` | Yes | No |
 
 **[⬆ Back to Index](#index)**
 <br >
